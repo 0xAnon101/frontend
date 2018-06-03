@@ -25,7 +25,7 @@ class WebsiteFooter extends Component {
                   <li className="type--uppercase col-sm-4 col-md-2 h6"><Link to="/signup"> Signup </Link></li>
                 </ul>
               </div>
-              <div className="menu-vertical col-md-3">
+              <div className="menu-vertical col-md-2">
                 <ul>
                   <li className="type--uppercase col-sm-4 col-md-2 h5"><Link to=""> <b>Resources</b> </Link></li>
                   <li className="type--uppercase col-sm-4 col-md-2 h6"><Link href="https://useinfluence.freshdesk.com/support/home"> FAQs </Link></li>
@@ -34,12 +34,12 @@ class WebsiteFooter extends Component {
                   <li className="type--uppercase col-sm-4 col-md-2 h6"><Link to="/contact"> Contact Us </Link></li>
                 </ul>
               </div>
-              <div className="menu-vertical col-md-3">
+              <div className="menu-vertical col-md-2">
                 <ul>
                   
                 </ul>
               </div>
-              <div className="menu-vertical col-md-3">
+              <div className="menu-vertical col-md-2">
                 <ul>
                  
                 </ul>
